@@ -1,2 +1,2 @@
 # TestingAplicaciones-BNL-TPO
-Trabajo practico obligatorio Testing de Aplicaciones 20220
+Trabajo practico obligatorio Testing de Aplicaciones 2022

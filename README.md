@@ -1,2 +1,9 @@
 # TestingAplicaciones-BNL-TPO
-Trabajo practico obligatorio Testing de Aplicaciones 2022
+
+# Testing de Aplicaciones: Trabajo Práctico Obligatorio
+
+## Nombre del equipo- 'BNL'
+## Integrantes
+-'Boccheto Facundo Integrante 1' 
+-'Nuñez Nahuel Integrante 2'
+-'Langone Gonzalo Integrante 3'

@@ -1,6 +1,4 @@
-# TestingAplicaciones-BNL-TPO
-
-# Testing de Aplicaciones: Trabajo Práctico Obligatorio
+# Testing de Aplicaciones-BNL-TPO Trabajo Práctico Obligatorio
 
 ## Nombre del equipo- 'BNL'
 ## Integrantes
